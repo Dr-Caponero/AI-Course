@@ -11,7 +11,7 @@ from streamlit_authenticator.utilities import (CredentialsError,
                                                ResetError,
                                                UpdateError)
 
-main_bg2 = "IA.jpg"
+main_bg2 = "IA.png"
 
 # def set_bg_hack(main_bg):
 #     '''
