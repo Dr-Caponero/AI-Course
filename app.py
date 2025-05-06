@@ -14,7 +14,7 @@ st.set_page_config(
 paginas = {"Páginas": [
         st.Page("paginas/inicial.py", title="Início", default = True, icon='🏠'), 
        # st.Page("paginas/perfil.py", title="Perfil", icon='👤'),         
-        st.Page("paginas/aulas.py", title="Aulas", icon='📚'), 
+       # st.Page("paginas/aulas.py", title="Aulas", icon='📚'), 
        # st.Page("paginas/kahoot2.py", title="Kahoot", icon='🎯'), 
        # st.Page("paginas/mapa.py", title = "Mapas Mentais", icon = '💬'),
        # st.Page("paginas/mapa2.py", title = "Mapas Mentais - Gráfico", icon = '💬'),        
