@@ -10,7 +10,7 @@ avatar_user = 'arquivos/avatar.png'
 avatar_assistent = 'arquivos/avatar2.png'
 
 # Configurações de modelo e carregamento de instruções do assistente
-modelo = 'gpt-4o-mini'
+modelo = 'gpt-4.1-mini'
 instrucoes = 'arquivos/assistente-python.txt'
 with open(instrucoes, 'r', encoding='utf-8') as file:
     instrucoes_gpt = file.read()
