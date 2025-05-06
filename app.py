@@ -13,6 +13,8 @@ st.set_page_config(
  
 paginas = {"Páginas": [
         st.Page("paginas/inicial.py", title="Início", default = True, icon='🏠'), 
+        st.Page("paginas/materiais.py", title="Materiais de Aula", icon = '📚'), 
+       # st.Page("paginas/links.py", title="Links e Referências", icon = ''), 
        # st.Page("paginas/perfil.py", title="Perfil", icon='👤'),         
        # st.Page("paginas/aulas.py", title="Aulas", icon='📚'), 
        # st.Page("paginas/kahoot2.py", title="Kahoot", icon='🎯'), 
@@ -20,7 +22,11 @@ paginas = {"Páginas": [
        # st.Page("paginas/mapa2.py", title = "Mapas Mentais - Gráfico", icon = '💬'),        
        # st.Page("paginas/casos.py", title = "Estudos de Casos", icon = '💡'),
        # st.Page("paginas/chatbot.py", title="Jeffbot", icon='👨🏼‍🏫')
-    ]
+    ],
+
+    "Aplicativos para os Alunos": [
+        st.Page("paginas/chatbot.py", title="Instrutor de Python", icon='🐍'), 
+    ],   
 }
 
 
