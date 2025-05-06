@@ -14,9 +14,9 @@ st.title('📚 Materiais')
 # st.link_button('**👨‍💻 Script Minicurso Python para IA**', url = colab,  help=None, type="primary", disabled=False, use_container_width=False)
 
 
- st.write('#### Aula 1 - 06/05/2025')
- colab = 'https://colab.research.google.com/drive/12pwuSbPEfrEdAXvjWyzHjczA7alY9FUS#scrollTo=HpY0R1my6LdE'
- st.link_button('**👨‍💻 Script Google Colab**', url = colab,  help=None, type="primary", disabled=False, use_container_width=False)
+st.write('#### Aula 1 - 06/05/2025')
+colab = 'https://colab.research.google.com/drive/12pwuSbPEfrEdAXvjWyzHjczA7alY9FUS#scrollTo=HpY0R1my6LdE'
+st.link_button('**👨‍💻 Script Google Colab**', url = colab,  help=None, type="primary", disabled=False, use_container_width=False)
 
 
 # st.write('#### Aula 2 - 11/10/2024')
