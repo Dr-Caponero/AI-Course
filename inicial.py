@@ -46,16 +46,16 @@ st.image(main_bg2)
 
 
 # Loading config file
-with open('config.yaml', 'r', encoding='utf-8') as file:
-    config = yaml.load(file, Loader=SafeLoader)
+# with open('config.yaml', 'r', encoding='utf-8') as file:
+#     config = yaml.load(file, Loader=SafeLoader)
 
-# Creating the authenticator object
-authenticator = stauth.Authenticate(
-    config['credentials'],
-    config['cookie']['name'],
-    config['cookie']['key'],
-    config['cookie']['expiry_days']
-)
+# # Creating the authenticator object
+# authenticator = stauth.Authenticate(
+#     config['credentials'],
+#     config['cookie']['name'],
+#     config['cookie']['key'],
+#     config['cookie']['expiry_days']
+# )
 
 # authenticator = stauth.Authenticate(
 #     '../config.yaml'
