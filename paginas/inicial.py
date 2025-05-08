@@ -1,6 +1,5 @@
 import base64
 import streamlit as st
-from yaml.loader import SafeLoader
 import streamlit_authenticator as stauth
 from streamlit_authenticator.utilities import (CredentialsError,
                                                ForgotError,
