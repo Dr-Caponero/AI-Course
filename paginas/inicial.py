@@ -1,13 +1,5 @@
 import base64
 import streamlit as st
-import streamlit_authenticator as stauth
-from streamlit_authenticator.utilities import (CredentialsError,
-                                               ForgotError,
-                                               Hasher,
-                                               LoginError,
-                                               RegisterError,
-                                               ResetError,
-                                               UpdateError)
 
 main_bg2 = "IA.png"
 
