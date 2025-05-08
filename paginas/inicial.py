@@ -1,5 +1,4 @@
 import base64
-import yaml
 import streamlit as st
 from yaml.loader import SafeLoader
 import streamlit_authenticator as stauth
