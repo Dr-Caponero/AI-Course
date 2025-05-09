@@ -1,0 +1,9 @@
+O site **[ai-course.streamlit.app](https://ai-course.streamlit.app)** apresenta-se como uma aplicação web interativa desenvolvida com o framework Streamlit, com o objetivo de fornecer uma introdução prática e acessível à inteligência artificial, especialmente no que tange à aplicação de modelos de linguagem de grande escala (LLMs). A interface do site é minimalista e funcional, refletindo a proposta do Streamlit de facilitar a criação de aplicações web com foco em dados.
+
+A estrutura do site é organizada em seções que abordam diferentes aspectos da inteligência artificial, como fundamentos teóricos, aplicações práticas e exercícios interativos. Cada seção é projetada para proporcionar uma experiência de aprendizado hands-on, permitindo que os usuários interajam com modelos de IA diretamente no navegador, sem a necessidade de configurações complexas ou conhecimento prévio em programação.
+
+Um dos destaques do site é a integração com modelos de linguagem de grande escala, como o GPT-3.5 da OpenAI, possibilitando que os usuários experimentem funcionalidades como geração de texto, resumo automático e resposta a perguntas. Essa abordagem prática facilita a compreensão dos conceitos subjacentes aos modelos de IA e demonstra seu potencial em aplicações do mundo real.
+
+Além disso, o site oferece recursos adicionais, como links para materiais de apoio, tutoriais e exemplos de código, que complementam o aprendizado e incentivam a exploração autônoma dos tópicos abordados. A utilização do Streamlit como plataforma subjacente garante uma experiência de usuário fluida e responsiva, mesmo para aqueles com pouca ou nenhuma experiência em desenvolvimento web.
+
+Em suma, o **ai-course.streamlit.app** configura-se como uma ferramenta educacional eficaz para introduzir conceitos de inteligência artificial a um público amplo, combinando teoria e prática de maneira acessível e interativa.
